@@ -1,0 +1,15 @@
+Starting audit...
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:5: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:5:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:7:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:7:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:7:33: Parameter args should be final. [FinalParameters]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:9:24: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:9:25: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:10:14: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:10:15: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:11: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:12:11: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Github\ADS2\ADSII64\Module2\2.1 CC_Percolation\Solution.java:12:12: '=' is not followed by whitespace. [WhitespaceAround]
+Audit done.
+Checkstyle ends with 12 errors.
